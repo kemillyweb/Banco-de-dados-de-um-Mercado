@@ -1,0 +1,29 @@
+body{
+	margin-top:15%;
+	font-family: Verdana;
+	background-image: linear-gradient(-90deg, #28b924, #000000);
+	background-size:100%;
+	text-align:center;
+	color:#fff;
+}
+input{
+	border-radius:10px;
+	font-color:black;
+	color:#000;
+	margin:5px;
+}
+label{
+	color:#fff;
+}
+.quad{
+	Background-color:#3a7df9;
+	width:350px;
+	height:300px;
+	margin:auto;
+	border-radius:15px;
+	padding-top:20px;
+}
+p{
+	font-size:25px;
+	font-style: italic;
+}
